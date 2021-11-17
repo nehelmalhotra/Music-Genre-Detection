@@ -1,1 +1,2 @@
 https://jovian.ai/prasad213/music-genre-classification
+https://github.com/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipynb
