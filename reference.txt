@@ -1,3 +1,4 @@
 https://jovian.ai/prasad213/music-genre-classification
 https://github.com/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipynb
 https://www.ee.columbia.edu/~dpwe/resources/matlab/chroma-ansyn/
+https://devopedia.org/audio-feature-extraction
