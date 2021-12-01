@@ -3,3 +3,4 @@ https://github.com/vincentherrmann/pytorch-wavenet/blob/master/WaveNet_demo.ipyn
 https://www.ee.columbia.edu/~dpwe/resources/matlab/chroma-ansyn/
 https://devopedia.org/audio-feature-extraction
 https://github.com/minguezalba/MusiCNN-embeddings/blob/main/dataset_generation.ipynb
+https://github.com/jordipons/musicnn/blob/master/DOCUMENTATION.md
